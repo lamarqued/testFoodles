@@ -1,0 +1,16 @@
+{
+  "name": "test-foodles",
+  "version": "1.0.0",
+  "description": "1) Write a function that takes as input (sentence: String, n: Number) \r and returns a list of size `n` where each element contains a word and and the frequency of that word in `sentence`\r This list should be sorted by decreasing frequency and alphabetical order in case of tie.",
+  "main": "exercise.js",
+  "scripts": {
+    "test": "node ./test.js",
+    "start": "node ./exercise.js"
+  },
+  "author": "Denis LAMARQUE",
+  "type": "module",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0"
+  }
+}
